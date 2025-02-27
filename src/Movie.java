@@ -41,4 +41,6 @@ public class Movie {
         return overview;
     }
 
+    public String toString () {return getTitle();}
+
 }
